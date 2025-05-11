@@ -1,2 +1,3 @@
 data/
 git_update.sh
+best_diarization_model.pt

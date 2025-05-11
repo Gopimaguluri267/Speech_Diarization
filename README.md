@@ -12,3 +12,8 @@
 * [TRANSFORMER ATTRACTORS FOR ROBUST AND EFFICIENT END-TO-END NEURAL DIARIZATION](https://arxiv.org/pdf/2312.06253v1)
 
 * [ECAPA-TDNN Embeddings for Speaker Diarization](https://arxiv.org/pdf/2104.01466)
+
+
+## [Presentation](https://docs.google.com/presentation/d/1o0assf3MHc2tnPf28lC5FdqcsWMXcuQsIWmcU01lFwM/edit?usp=sharing)
+
+## [Medium Blog](https://medium.com/@venkatachalam.sps/will-you-shut-up-man-b94690fc9049)
